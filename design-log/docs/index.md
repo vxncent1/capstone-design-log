@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+<!-- # Design Log
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
@@ -14,4 +14,17 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+        ...       # Other markdown pages, images and other files. -->
+
+# Mechatronics Capstone Design Log
+
+This site documents the design process for our capstone project.
+
+## Team
+- Austin Lew
+- Grace Liang
+- Kevin Gong
+- Vincent Nguyen
+
+## Navigation
+- [Most Recent Log](logs/week-01.md)

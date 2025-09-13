@@ -1,6 +1,27 @@
-site_name: Design Log
+site_name: Group 24 Capstone
 theme:
   name: material
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"   
+      scheme: default
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: octicons/moon-16
+        name: Switch to dark mode
+  features:
+    - content.code.copy
+    - navigation.footer
+  icon:
+    logo: fontawesome/solid/volleyball
+  favicon: images/ROBOT.png
 
 markdown_extensions:
   - admonition
@@ -13,3 +34,19 @@ markdown_extensions:
 plugins:
   - search
   - mermaid2
+
+nav:
+  - Home: index.md
+  - Logs:
+    # - Week 10: logs/week-10.md
+    # - Week 09: logs/week-09.md
+    # - Week 08: logs/week-08.md
+    # - Week 07: logs/week-07.md
+    # - Week 06: logs/week-06.md
+    # - Week 05: logs/week-05.md
+    # - Week 04: logs/week-04.md
+    # - Week 03: logs/week-03.md
+    # - Week 02: logs/week-02.md
+    - Week 01: logs/week-01.md
+      
+      
