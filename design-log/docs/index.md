@@ -21,10 +21,10 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 This site documents the design process for our capstone project.
 
 ## Team
-- Austin Lew
-- Grace Liang
-- Kevin Gong
-- Vincent Nguyen
+- **Austin Lew**
+- **Grace Liang**
+- **Kevin Gong**
+- **Vincent Nguyen**
 
 ## Navigation
 - [Most Recent Log](logs/week-01.md)
