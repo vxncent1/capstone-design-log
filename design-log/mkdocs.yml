@@ -1,4 +1,7 @@
 site_name: Group 24 Capstone
+site_url: https://onsetbot.com/
+extra:
+  cname: onsetbot.com
 theme:
   name: material
   palette:
@@ -63,7 +66,7 @@ nav:
     # - Week 05: logs/week-05.md
     # - Week 04: logs/week-04.md
     # - Week 03: logs/week-03.md
-    # - Week 02: logs/week-02.md
+    - Week 02: logs/week-02.md
     - Week 01: logs/week-01.md
       
       
