@@ -1,4 +1,4 @@
-# Week 01 - Sept 7-13, 2025
+# Week 01 — Sept 7-13, 2025
 
 ## Overview 
 
