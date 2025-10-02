@@ -50,19 +50,31 @@ Updated Constraints/Criteria/Objectives table after discussions last sync.
 
 ## Individual Updates
 
-<!-- ### **Austin**
+### **Austin**
 * Reorganized Constraints/Criteria/Objectives
+* Proposed designs for a belt driven ball launching mechanism, and conducted research
+* Co-write and submitted application for Engineer of the Future Fund
+* Discussed embedded system implementation details
 
 ### **Grace**
-* Reorganized Constraints/Criteria/Objectives
-* Designed 
+* Defined functional sub-modules for design solution brainstorming
+* Conceptualized solutions for sub-modules and evaluated based on criteria
+    * Downselected to active motor-driven launcher instead of passive spring-loaded mechanism
+* Refined 'flywheel' and 'pinball' launcher mechanisms
+* Enabling 'flywheel' proof-of-concept prototype to understand mechanism limitations
+    * Designed 3D printed parts that reuse motors & hardware of existing ball launcher
 
 ### **Kevin**
-* Reorganized Constraints/Criteria/Objectives
+* Brainstormed designs for different sub-systems
+* Conceptual design of launching mechanisms
+* Printed parts for prototype launcher for testing
+* Wrote and submitted application for Engineer of the future fund
 
 ### **Vincent**
 * Find patents for passive volleyball hitter trainers and active volleyball launchers
 * Reorganized Constraints/Criteria/Objectives
-* Formed 1 linear actuator launching mechanism
+    - Created new tables based on discussion
+* Formulated linear actuator launching mechanisms
     - Cradle on linear rails to hold the ball
-    - Launched by pulley system driven by motors -->
+    - Launched by pulley system driven by motors
+* Website management
