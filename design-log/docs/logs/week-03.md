@@ -46,7 +46,25 @@ Updated Constraints/Criteria/Objectives table after discussions last sync.
 | [Tennis ball launcher](https://patentimages.storage.googleapis.com/db/ac/14/f978d6d223524c/EP3206483B1.pdf) |
 
 ### Solutions
+Solution A
+![Solution A](../images/sol_a.jpg)
 
+Solution B
+![Solution B](../images/sol_b.jpg)
+
+Solution C
+![Solution C](../images/sol_c.jpg)
+
+Solution D
+![Solution D](../images/sol_d.png)
+
+### Additional Sketches
+
+![Sketch 1](../images/notes_1.jpg)
+
+![Sketch 2](../images/notes_2.jpg)
+
+![Sketch 3](../images/notes_3.jpg)
 
 ## Individual Updates
 
