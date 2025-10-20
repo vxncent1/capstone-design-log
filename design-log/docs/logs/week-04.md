@@ -8,7 +8,7 @@ Refined solutions and completed decision matrix.
 |-|-|-|-|-|-|-|-|-|-|
 | Design Criteria | Weight (%) | Rating | Score | Rating | Score | Rating | Score | Rating | Score |
 |No Spin|20|2|0.4|5|1|3|0.6|4|0.8|
-|X-Y Ball Delievery|20|3|0.6|5|1|4|0.8|1|0.2|
+|X-Y Ball delivery|20|3|0.6|5|1|4|0.8|1|0.2|
 |Rotational Precision|10|4|0.4|4|0.4|4|0.4|4|0.4|
 |Ball Loading<br>(min/max #ball)|5|3|0.15|3.5|0.175|3|0.15|5|0.25|
 |UX<br>(Noise/Obstruction)|10|1|0.1|3|0.3|2|0.2|4|0.4|
