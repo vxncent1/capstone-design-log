@@ -27,4 +27,4 @@ This site documents the design process for our capstone project.
 - **Vincent Nguyen**
 
 ## Navigation
-- [Most Recent Log](logs/week-06.md)
+- [Most Recent Log](logs/week-08.md)

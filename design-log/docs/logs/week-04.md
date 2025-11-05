@@ -1,4 +1,4 @@
-# Week 04 — Sept 28- Oct 4, 2025
+# Week 04 — Sept 28 - Oct 4, 2025
 
 ## Overview 
 
