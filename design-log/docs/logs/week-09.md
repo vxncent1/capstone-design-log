@@ -1,4 +1,4 @@
-# Week 09 — Oct 2 - Nov 8, 2025
+# Week 09 — Nov 2-8, 2025
 
 ## Overview 
 
