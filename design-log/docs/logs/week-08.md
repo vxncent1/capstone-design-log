@@ -2,7 +2,7 @@
 
 ## Overview 
 
-Extensive focus on ME CAD for pinball and linear actuator launching mechanism prototypes. Reuse exisiting motors, motor drivers, and microcontroller for PoC while waiting for optimized components.
+Extensive focus on ME CAD for pinball and linear actuator launching mechanism prototypes. Reuse existing motors, motor drivers, and microcontroller for PoC while waiting for optimized components.
 
 ### Pinball Mechanism
 ![Ortho View](../images/pin_ortho.png)
@@ -18,7 +18,7 @@ Extensive focus on ME CAD for pinball and linear actuator launching mechanism pr
 
 ### **Austin**
 
-* Started to adapt stepper and serveo motor controller code to specific apllications
+* Started to adapt stepper and servo motor controller code to specific applications
     * Looked into migrating code to different microcontroller and SBC platforms
 
 ### **Grace**

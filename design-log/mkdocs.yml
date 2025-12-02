@@ -61,7 +61,9 @@ plugins:
 nav:
   - Home: index.md
   - Logs:
-    # - Week 10: logs/week-10.md
+    - Week 12: logs/week-12.md
+    - Week 11: logs/week-11.md
+    - Week 10: logs/week-10.md
     - Week 09: logs/week-09.md
     - Week 08: logs/week-08.md
     - Week 07: logs/week-07.md
